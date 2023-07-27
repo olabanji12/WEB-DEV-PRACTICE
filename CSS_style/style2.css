@@ -1,0 +1,38 @@
+
+.first_row{
+    padding: 25px;
+    background-image: url(/MEDIA/first-row-bg-image.jpg);
+    background-size: 90%;  
+}
+
+
+img{
+    border: 3px solid;
+    border-color:black;
+    height: 300px;
+    border-radius: 5%;
+    margin-top: 30px;
+}
+
+.name{
+    font-size: 50px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    color: azure;
+}
+
+p{
+    font-size: 25px;
+    font-family: "Inter", sans-serif;
+    font-weight: 300;
+    color: azure;
+    z-index: 20;
+    
+}
+
+
+
+
+
+
+
